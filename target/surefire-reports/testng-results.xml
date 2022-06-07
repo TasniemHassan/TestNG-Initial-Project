@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-07T01:11:19 CDT" name="Regression" finished-at="2022-06-07T01:13:01 CDT" duration-ms="102476">
+    <groups>
+    </groups>
+    <test started-at="2022-06-07T01:11:19 CDT" name="All Functionalities" finished-at="2022-06-07T01:13:01 CDT" duration-ms="102476">
+      <class name="scripts.Cars_Dot_Com_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:11:19 CDT" name="setup" finished-at="2022-06-07T01:11:22 CDT" duration-ms="3378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInForm()[pri:1, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:11:22 CDT" name="signInForm" description="Test Case 1: Validate Cars.com Sign in page form" finished-at="2022-06-07T01:11:48 CDT" duration-ms="25545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInForm -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:11:48 CDT" name="teardown" finished-at="2022-06-07T01:11:53 CDT" duration-ms="5109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:11:53 CDT" name="setup" finished-at="2022-06-07T01:11:54 CDT" duration-ms="1448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateSignInPageSocialMediaSection()[pri:2, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:11:54 CDT" name="validateSignInPageSocialMediaSection" description="Test Case 2: Validate Cars.com Sign in page social media section" finished-at="2022-06-07T01:12:19 CDT" duration-ms="25022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignInPageSocialMediaSection -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:12:19 CDT" name="teardown" finished-at="2022-06-07T01:12:25 CDT" duration-ms="5590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:12:25 CDT" name="setup" finished-at="2022-06-07T01:12:28 CDT" duration-ms="3275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="canNotSignIn()[pri:3, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:12:28 CDT" name="canNotSignIn" description="Test Case 3: Validate user cannot sign in to Cars.com with invalid credentials" finished-at="2022-06-07T01:12:58 CDT" duration-ms="29892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canNotSignIn -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:scripts.Cars_Dot_Com_Test@2641e737]" started-at="2022-06-07T01:12:58 CDT" name="teardown" finished-at="2022-06-07T01:13:01 CDT" duration-ms="3203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.Cars_Dot_Com_Test -->
+    </test> <!-- All Functionalities -->
+  </suite> <!-- Regression -->
+</testng-results>
